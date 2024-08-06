@@ -6,3 +6,5 @@ while (indice < listaDecompras.length){
     console.log(listaDecompras [indice]) 
     indice++;
 }
+
+/// Base ///
